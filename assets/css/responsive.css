@@ -16,7 +16,7 @@
   .countdown-timer {
     padding: 260px 0;
   }
-  
+
 
 }
 
@@ -59,6 +59,70 @@
   }
   .section-sub {
     font-size: 16px;
+  }
+  .intro {
+    background: url(../img/41.jpg);
+    background-size: cover;
+    color: #fff;
+    padding: 150px 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .btn-border {
+    color: #000;
+    background-color: transparent;
+    border: 2px solid #000;
+    border-radius: 4px;
+    padding: 10px 20px;
+  }
+
+  .intro .target-scroll i {
+    color: #000;
+    font-size: 40px;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+  }
+
+  .time-entry {
+    display: inline-block;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 0px;
+    text-align: center;
+    font-weight: 400;
+    color: #000;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .countdown .time-count .time-entry span {
+    font-size: 45px;
+    font-weight: 700;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    width: 100%;
+  }
+
+  .countdown .time-count .time-entry {
+    position: relative;
+    display: inline-block;
+    width: 130px;
+    height: 115px;
+    border-radius: 4px;
+    font-size: 14px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.25);
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 50px -10px #000;
+  }
+
+  h2,h4{
+    color:black;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5) !important;
   }
 
   img.logo-foot{
