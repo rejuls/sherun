@@ -70,8 +70,16 @@
   }
 
   img.logo-foot{
-    max-width: 100%;
+    max-width: 45%;
     max-height:80%;
+  }
+  img.logo-foot1{
+    max-width: 35%;
+    max-height:80%;
+  }
+
+  .top-nav-collapse .navbar-brand img {
+    width: 45%;
   }
 
   .intro .heading-count h2 {
