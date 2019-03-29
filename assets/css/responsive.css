@@ -69,23 +69,6 @@
     position: relative;
   }
 
-  .btn-border {
-    color: #000;
-    background-color: transparent;
-    border: 2px solid #000;
-    border-radius: 4px;
-    padding: 10px 20px;
-  }
-
-  .intro .target-scroll i {
-    color: #000;
-    font-size: 40px;
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-  }
-
   img.logo-foot{
     max-width: 100%;
     max-height:80%;
