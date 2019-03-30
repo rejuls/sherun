@@ -78,6 +78,10 @@
     max-height:80%;
   }
 
+  .br-on-pc{
+    display: none;
+  }
+
   .top-nav-collapse .navbar-brand img {
     width: 45%;
   }
